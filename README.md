@@ -1,6 +1,3 @@
-# python-leetcode
-Leetcode's solution for sharing
-
 # Python LeetCode Solutions 🐍
 
 Welcome to my Python LeetCode repository! This repo contains my solutions to various LeetCode problems, categorized by difficulty level and problem type. The solutions are written in Python and include explanations, comments, and, where applicable, optimized approaches.
