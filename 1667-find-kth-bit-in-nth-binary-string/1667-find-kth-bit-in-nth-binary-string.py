@@ -1,6 +1,6 @@
 class Solution:
     def findKthBit(self, n: int, k: int) -> str:
-        prev = '0'
-        for i in range(n):
-            prev = prev + '1' + ''.join('1' if x == '0' else '0' for x in prev)[::-1]
-        return prev[k-1]
+        sequence = '0'
+        while len(sequence) < k:
+            sequence = sequence + '1' + ''.join('1' if x == '0' else '0' for x in sequence)[::-1]
+        return sequence[k-1]
