@@ -26,10 +26,12 @@
 ## String
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Recursion
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
+## Stack
+|  |
+| ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
