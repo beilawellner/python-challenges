@@ -31,6 +31,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beilawellner/python-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2011-maximum-value-after-insertion](https://github.com/beilawellner/python-challenges/tree/master/2011-maximum-value-after-insertion) |
 ## Recursion
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [2823-the-knights-tour](https://github.com/beilawellner/python-challenges/tree/master/2823-the-knights-tour) |
+## Greedy
+|  |
+| ------- |
+| [2011-maximum-value-after-insertion](https://github.com/beilawellner/python-challenges/tree/master/2011-maximum-value-after-insertion) |
 <!---LeetCode Topics End-->
