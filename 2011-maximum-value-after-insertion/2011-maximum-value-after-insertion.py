@@ -1,18 +1,17 @@
-'''
-99999
-66666
--2345
-'''
 class Solution:
     def maxValue(self, n: str, x: int) -> str:
-        positive = True if n[0] != '-' else False
-        i = 0 if positive else 1
-        if positive:
-            while i < len(n) and int(n[i]) >= x:
-                i += 1
-        else:
-            while i < len(n) and int(n[i]) <= x:
-                i += 1
-        n = n[:i] + str(x) + n[i:]
+        if n[0] == '-':
+            return '-' + self.minimize(n[1:], x)
+        return self.maximize(n, x)
 
-        return n
+    def maximize(self, n, x):
+        i = 0
+        while i < len(n) and int(n[i]) >= x:
+            i += 1
+        return n[:i] + str(x) + n[i:]
+
+    def minimize(self, n, x):
+        i = 0
+        while i < len(n) and int(n[i]) <= x:
+            i += 1
+        return n[:i] + str(x) + n[i:]
