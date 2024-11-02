@@ -32,6 +32,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beilawellner/python-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2011-maximum-value-after-insertion](https://github.com/beilawellner/python-challenges/tree/master/2011-maximum-value-after-insertion) |
+| [2580-circular-sentence](https://github.com/beilawellner/python-challenges/tree/master/2580-circular-sentence) |
 ## Recursion
 |  |
 | ------- |
