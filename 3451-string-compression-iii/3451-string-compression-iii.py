@@ -1,8 +1,3 @@
-'''
-"abcde"
-c= a
-count = 1
-'''
 class Solution:
     def compressedString(self, word: str) -> str:
         comp = ""
