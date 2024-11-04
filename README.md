@@ -33,6 +33,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beilawellner/python-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2011-maximum-value-after-insertion](https://github.com/beilawellner/python-challenges/tree/master/2011-maximum-value-after-insertion) |
 | [2580-circular-sentence](https://github.com/beilawellner/python-challenges/tree/master/2580-circular-sentence) |
+| [3451-string-compression-iii](https://github.com/beilawellner/python-challenges/tree/master/3451-string-compression-iii) |
 ## Recursion
 |  |
 | ------- |
