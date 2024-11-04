@@ -45,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/beilawellner/python-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 ## Binary Search
 |  |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [2011-maximum-value-after-insertion](https://github.com/beilawellner/python-challenges/tree/master/2011-maximum-value-after-insertion) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/beilawellner/python-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
