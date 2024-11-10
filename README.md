@@ -84,13 +84,20 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/beilawellner/python-challenges/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/beilawellner/python-challenges/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/beilawellner/python-challenges/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/beilawellner/python-challenges/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
