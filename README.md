@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2823-the-knights-tour](https://github.com/beilawellner/python-challenges/tree/master/2823-the-knights-tour) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 ## Hash Table
@@ -72,6 +73,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2823-the-knights-tour](https://github.com/beilawellner/python-challenges/tree/master/2823-the-knights-tour) |
 ## Greedy
 |  |
@@ -93,6 +95,7 @@
 | [0547-number-of-provinces](https://github.com/beilawellner/python-challenges/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/beilawellner/python-challenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Graph
 |  |
 | ------- |
