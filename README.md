@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beilawellner/python-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -39,6 +40,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -65,6 +67,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 ## Backtracking
 |  |
