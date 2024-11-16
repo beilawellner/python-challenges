@@ -11,6 +11,7 @@
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/beilawellner/python-challenges/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/beilawellner/python-challenges/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2823-the-knights-tour](https://github.com/beilawellner/python-challenges/tree/master/2823-the-knights-tour) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/beilawellner/python-challenges/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -20,6 +21,7 @@
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beilawellner/python-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/beilawellner/python-challenges/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Design
 |  |
 | ------- |
@@ -127,5 +129,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/beilawellner/python-challenges/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/beilawellner/python-challenges/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
