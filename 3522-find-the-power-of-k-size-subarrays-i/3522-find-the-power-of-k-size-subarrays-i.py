@@ -1,22 +1,15 @@
-'''
-nums = [1,2,3,4,3,2,5], k = 3
-          l
-          r
-'''
 class Solution:
-    def resultsArray(self, nums: List[int], k: int) -> List[int]:
-        res = []
-        l = 0
-        seq_count = 1
+    def resultsArray(self, nums: list[int], k: int) -> list[int]:
+        results = []
+        start = 0
 
-        for r in range(len(nums)):
-            if r > 0 and nums[r - 1] + 1 == nums[r]:
-                seq_count += 1
-            if r - l + 1 > k:
-                if nums[l] + 1 == nums[l + 1]:
-                    seq_count -= 1
-                l += 1
-            if r - l + 1 == k:
-                res.append(nums[r] if seq_count == k else -1)
+        for i in range(len(nums)):
+            if i > 0 and nums[i] != nums[i - 1] + 1:
+                start = i
+            if i >= k - 1:
+                if i - start + 1 >= k:
+                    results.append(nums[i])
+                else:
+                    results.append(-1)
 
-        return res
+        return results
