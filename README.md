@@ -13,6 +13,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/beilawellner/python-challenges/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2823-the-knights-tour](https://github.com/beilawellner/python-challenges/tree/master/2823-the-knights-tour) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/beilawellner/python-challenges/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/beilawellner/python-challenges/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
