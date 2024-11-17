@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [0907-koko-eating-bananas](https://github.com/beilawellner/python-challenges/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beilawellner/python-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -43,6 +45,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/beilawellner/python-challenges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
+| [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beilawellner/python-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -142,4 +145,5 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/beilawellner/python-challenges/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
