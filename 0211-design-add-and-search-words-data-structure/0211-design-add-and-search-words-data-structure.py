@@ -17,21 +17,24 @@ class WordDictionary:
         node.is_end_of_word = True
 
     def search(self, word: str) -> bool:
-        return self._searchWord(word, 0, self.root)
+        return self._searchDfs(word, 0, self.root)
 
-    def _searchWord(self, word: str, index: int, node: TrieNode) -> bool:
+    def _searchDfs(self, word: str, index: int, node: TrieNode) -> bool:
         if index == len(word):
             return node.is_end_of_word
 
-        c = word[index]
-        if c == '.':
-            # Try all children nodes for the next character
-            return any(self._searchWord(word, index + 1, child) for child in node.children.values())
-        elif c in node.children:
-            # Proceed to the specific child node
-            return self._searchWord(word, index + 1, node.children[c])
+        ch = word[index]
+        if ch == '.':
+            for child in node.children.values():
+                if self._searchDfs(word, index + 1, child):
+                    return True
+            return False
+        elif ch in node.children:
+            return self._searchDfs(word, index + 1, node.children[ch])
         else:
             return False
+
+
 
 # Your WordDictionary object will be instantiated and called as such:
 # obj = WordDictionary()
