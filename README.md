@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [0907-koko-eating-bananas](https://github.com/beilawellner/python-challenges/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
@@ -20,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/beilawellner/python-challenges/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
@@ -45,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/beilawellner/python-challenges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
@@ -81,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 ## Prefix Sum
 |  |
