@@ -10,6 +10,7 @@
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
+| [1755-defuse-the-bomb](https://github.com/beilawellner/python-challenges/tree/master/1755-defuse-the-bomb) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/beilawellner/python-challenges/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/beilawellner/python-challenges/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
@@ -141,6 +142,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1755-defuse-the-bomb](https://github.com/beilawellner/python-challenges/tree/master/1755-defuse-the-bomb) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/beilawellner/python-challenges/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/beilawellner/python-challenges/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Trie
