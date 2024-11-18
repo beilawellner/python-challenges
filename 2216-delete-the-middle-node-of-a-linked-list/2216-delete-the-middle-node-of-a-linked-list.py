@@ -5,8 +5,8 @@
 #         self.next = next
 class Solution:
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head:
-            return head
+        if not head.next:
+            return None
         dummy = ListNode()
         dummy.next = head
         slow = fast = dummy
