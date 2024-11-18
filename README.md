@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beilawellner/python-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/beilawellner/python-challenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 ## Binary Search
 |  |
@@ -110,6 +111,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beilawellner/python-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/beilawellner/python-challenges/tree/master/0146-lru-cache) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/beilawellner/python-challenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
