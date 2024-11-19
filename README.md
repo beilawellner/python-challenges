@@ -11,6 +11,7 @@
 | [0238-product-of-array-except-self](https://github.com/beilawellner/python-challenges/tree/master/0238-product-of-array-except-self) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [0907-koko-eating-bananas](https://github.com/beilawellner/python-challenges/tree/master/0907-koko-eating-bananas) |
+| [1028-interval-list-intersections](https://github.com/beilawellner/python-challenges/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beilawellner/python-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1028-interval-list-intersections](https://github.com/beilawellner/python-challenges/tree/master/1028-interval-list-intersections) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/beilawellner/python-challenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 ## Binary Search
