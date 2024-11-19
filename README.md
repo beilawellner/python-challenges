@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beilawellner/python-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0092-reverse-linked-list-ii](https://github.com/beilawellner/python-challenges/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/beilawellner/python-challenges/tree/master/0146-lru-cache) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/beilawellner/python-challenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
