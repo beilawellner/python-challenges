@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/beilawellner/python-challenges/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/beilawellner/python-challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/beilawellner/python-challenges/tree/master/0238-product-of-array-except-self) |
@@ -102,6 +103,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/beilawellner/python-challenges/tree/master/0047-permutations-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beilawellner/python-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2823-the-knights-tour](https://github.com/beilawellner/python-challenges/tree/master/2823-the-knights-tour) |
 ## Matrix
