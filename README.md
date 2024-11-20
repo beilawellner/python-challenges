@@ -7,6 +7,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/beilawellner/python-challenges/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/beilawellner/python-challenges/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/beilawellner/python-challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/beilawellner/python-challenges/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/beilawellner/python-challenges/tree/master/0238-product-of-array-except-self) |
@@ -180,6 +181,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/beilawellner/python-challenges/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/beilawellner/python-challenges/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0102-binary-tree-level-order-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/beilawellner/python-challenges/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
