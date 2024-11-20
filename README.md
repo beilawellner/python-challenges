@@ -8,6 +8,7 @@
 | [0047-permutations-ii](https://github.com/beilawellner/python-challenges/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/beilawellner/python-challenges/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/beilawellner/python-challenges/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/beilawellner/python-challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/beilawellner/python-challenges/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/beilawellner/python-challenges/tree/master/0238-product-of-array-except-self) |
@@ -203,4 +204,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/beilawellner/python-challenges/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/beilawellner/python-challenges/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
