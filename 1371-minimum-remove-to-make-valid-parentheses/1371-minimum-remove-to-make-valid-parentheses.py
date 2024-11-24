@@ -9,21 +9,24 @@ open_stack = [i]
 '''
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        stack = []
-        indices_to_remove = []
-        res = ""
+        open_cnt = 0
+        res = []
 
-        for i in range(len(s)):
-            if s[i] == '(':
-                stack.append(i)
-            elif s[i] == ')':
-                if stack:
-                    stack.pop()
-                else:
-                    indices_to_remove.append(i)
+        for c in s:
+            if c == '(':
+                open_cnt += 1
+                res.append(c)
+            elif c == ')' and open_cnt:
+                open_cnt -= 1
+                res.append(c)
+            elif c != ')':
+                res.append(c)
 
-        for i in range(len(s)):
-            if i not in stack + indices_to_remove:
-                res += s[i]
+        filtered = []
+        for c in reversed(res):
+            if c == '(' and open_cnt:
+                open_cnt -= 1
+            else:
+                filtered.append(c)
 
-        return res
+        return ''.join(reversed(filtered))
