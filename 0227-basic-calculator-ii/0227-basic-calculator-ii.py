@@ -2,11 +2,8 @@ class Solution:
     def calculate(self, s: str) -> int:
         stack = []
         num = 0
-        operator = '+'  # Default operator before the first number
-        
-        # Remove spaces for safety
-        s = s.replace(' ', '')
-        
+        operator = '+'
+                
         for i, c in enumerate(s):
             if c.isdigit():
                 num = num * 10 + int(c)
