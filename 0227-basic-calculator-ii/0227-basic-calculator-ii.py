@@ -1,7 +1,6 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        stack = []
-        num = 0
+        num, last_num, res = 0, 0, 0
         operator = '+'
                 
         for i, c in enumerate(s):
@@ -10,19 +9,21 @@ class Solution:
             
             if c in "+-*/" or i == len(s) - 1:
                 if operator == '+':
-                    stack.append(num)
+                    res += last_num
+                    last_num = num
                 elif operator == '-':
-                    stack.append(-num)
+                    res += last_num
+                    last_num = -num
                 elif operator == '*':
-                    stack.append(stack.pop() * num)
+                    last_num *= num
                 elif operator == '/':
-                    last_num = stack.pop()
                     if last_num < 0:
-                        stack.append(-(-last_num // num)) 
+                        last_num = -(-last_num // num)
                     else:
-                        stack.append(last_num // num)
+                        last_num = last_num // num
                 
                 num = 0
                 operator = c
-        
-        return sum(stack)
+
+        res += last_num        
+        return res
