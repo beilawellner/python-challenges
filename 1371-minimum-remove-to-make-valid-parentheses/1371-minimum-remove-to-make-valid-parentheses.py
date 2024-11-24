@@ -1,12 +1,3 @@
-'''
-"lee(t(c)o)de)"
-"lee"
-""
-"le((()e(t(c)o)de"
-"((((("
-")))))"
-open_stack = [i]
-'''
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
         open_cnt = 0
