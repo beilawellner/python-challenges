@@ -23,6 +23,7 @@
 | [1755-defuse-the-bomb](https://github.com/beilawellner/python-challenges/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/beilawellner/python-challenges/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2089-maximum-matrix-sum](https://github.com/beilawellner/python-challenges/tree/master/2089-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/beilawellner/python-challenges/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/beilawellner/python-challenges/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/beilawellner/python-challenges/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -126,11 +127,13 @@
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/beilawellner/python-challenges/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2089-maximum-matrix-sum](https://github.com/beilawellner/python-challenges/tree/master/2089-maximum-matrix-sum) |
 | [2823-the-knights-tour](https://github.com/beilawellner/python-challenges/tree/master/2823-the-knights-tour) |
 ## Greedy
 |  |
 | ------- |
 | [2011-maximum-value-after-insertion](https://github.com/beilawellner/python-challenges/tree/master/2011-maximum-value-after-insertion) |
+| [2089-maximum-matrix-sum](https://github.com/beilawellner/python-challenges/tree/master/2089-maximum-matrix-sum) |
 ## Linked List
 |  |
 | ------- |
