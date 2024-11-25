@@ -9,13 +9,10 @@ class Node:
 """
 class Solution:
     def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
-        seen = set()
+        p_copy, q_copy = p, q
 
-        while p:
-            seen.add(p)
-            p = p.parent
+        while p_copy != q_copy:
+            p_copy = p_copy.parent if p_copy else q
+            q_copy = q_copy.parent if q_copy else p
 
-        while q:
-            if q in seen:
-                return q
-            q = q.parent
+        return p_copy
