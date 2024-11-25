@@ -14,4 +14,4 @@ class Solution:
             else:
                 cur += c
 
-        return '/' + '/'.join(stack) if stack else '/'
+        return '/' + '/'.join(stack)
