@@ -157,6 +157,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/beilawellner/python-challenges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0339-nested-list-weight-sum](https://github.com/beilawellner/python-challenges/tree/master/0339-nested-list-weight-sum) |
 | [0547-number-of-provinces](https://github.com/beilawellner/python-challenges/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/beilawellner/python-challenges/tree/master/0975-range-sum-of-bst) |
@@ -167,6 +168,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0102-binary-tree-level-order-traversal) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/beilawellner/python-challenges/tree/master/0322-coin-change) |
+| [0339-nested-list-weight-sum](https://github.com/beilawellner/python-challenges/tree/master/0339-nested-list-weight-sum) |
 | [0547-number-of-provinces](https://github.com/beilawellner/python-challenges/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
