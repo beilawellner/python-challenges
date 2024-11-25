@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/beilawellner/python-challenges/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/beilawellner/python-challenges/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/beilawellner/python-challenges/tree/master/0053-maximum-subarray) |
@@ -130,6 +131,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/beilawellner/python-challenges/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/beilawellner/python-challenges/tree/master/0047-permutations-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beilawellner/python-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2823-the-knights-tour](https://github.com/beilawellner/python-challenges/tree/master/2823-the-knights-tour) |
