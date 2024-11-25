@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/beilawellner/python-challenges/tree/master/0071-simplify-path) |
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/beilawellner/python-challenges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/beilawellner/python-challenges/tree/master/0227-basic-calculator-ii) |
@@ -121,6 +122,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/beilawellner/python-challenges/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/beilawellner/python-challenges/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
