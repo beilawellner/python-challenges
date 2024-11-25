@@ -37,6 +37,7 @@
 | [0146-lru-cache](https://github.com/beilawellner/python-challenges/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/beilawellner/python-challenges/tree/master/0217-contains-duplicate) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
@@ -108,6 +109,7 @@
 | [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/beilawellner/python-challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/beilawellner/python-challenges/tree/master/0217-contains-duplicate) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 ## Prefix Sum
 |  |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/beilawellner/python-challenges/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0547-number-of-provinces](https://github.com/beilawellner/python-challenges/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/beilawellner/python-challenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0102-binary-tree-level-order-traversal) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/beilawellner/python-challenges/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/beilawellner/python-challenges/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
@@ -212,10 +216,12 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0102-binary-tree-level-order-traversal) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0102-binary-tree-level-order-traversal) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
