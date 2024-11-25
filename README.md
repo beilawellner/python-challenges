@@ -18,6 +18,7 @@
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [0787-sliding-puzzle](https://github.com/beilawellner/python-challenges/tree/master/0787-sliding-puzzle) |
 | [0907-koko-eating-bananas](https://github.com/beilawellner/python-challenges/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
 | [1028-interval-list-intersections](https://github.com/beilawellner/python-challenges/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/beilawellner/python-challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/beilawellner/python-challenges/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/beilawellner/python-challenges/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/beilawellner/python-challenges/tree/master/0238-product-of-array-except-self) |
+| [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 ## Stack
 |  |
@@ -256,8 +259,13 @@
 | ------- |
 | [0050-powx-n](https://github.com/beilawellner/python-challenges/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/beilawellner/python-challenges/tree/master/0227-basic-calculator-ii) |
+| [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/beilawellner/python-challenges/tree/master/0975-range-sum-of-bst) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
