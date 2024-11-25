@@ -18,5 +18,4 @@ class Solution:
         while q:
             if q in seen:
                 return q
-            seen.add(q)
             q = q.parent
