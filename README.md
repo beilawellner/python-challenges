@@ -84,6 +84,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/beilawellner/python-challenges/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -253,6 +254,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/beilawellner/python-challenges/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/beilawellner/python-challenges/tree/master/0227-basic-calculator-ii) |
 ## Binary Search Tree
 |  |
