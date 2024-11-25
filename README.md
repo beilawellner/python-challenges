@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/beilawellner/python-challenges/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/beilawellner/python-challenges/tree/master/0071-simplify-path) |
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
@@ -92,6 +93,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/beilawellner/python-challenges/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beilawellner/python-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0408-valid-word-abbreviation](https://github.com/beilawellner/python-challenges/tree/master/0408-valid-word-abbreviation) |
 | [1028-interval-list-intersections](https://github.com/beilawellner/python-challenges/tree/master/1028-interval-list-intersections) |
@@ -241,6 +243,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/beilawellner/python-challenges/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/beilawellner/python-challenges/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/beilawellner/python-challenges/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/beilawellner/python-challenges/tree/master/0322-coin-change) |
