@@ -1,13 +1,3 @@
-'''
-nums = [3,1,0,0], queries = [[1,3],[0,2]]
-{
-    1: 2
-    2: 2
-    3: 1
-    0: 4
-}
-'''
-
 class Solution:
     def isZeroArray(self, nums: List[int], queries: List[List[int]]) -> bool:
         n = len(nums)
