@@ -34,6 +34,7 @@
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/beilawellner/python-challenges/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3639-zero-array-transformation-i](https://github.com/beilawellner/python-challenges/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/beilawellner/python-challenges/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/beilawellner/python-challenges/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
+| [3643-zero-array-transformation-ii](https://github.com/beilawellner/python-challenges/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3639-zero-array-transformation-i](https://github.com/beilawellner/python-challenges/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/beilawellner/python-challenges/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
 |  |
 | ------- |
