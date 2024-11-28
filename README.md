@@ -33,6 +33,7 @@
 | [2823-the-knights-tour](https://github.com/beilawellner/python-challenges/tree/master/2823-the-knights-tour) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/beilawellner/python-challenges/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3639-zero-array-transformation-i](https://github.com/beilawellner/python-challenges/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0238-product-of-array-except-self](https://github.com/beilawellner/python-challenges/tree/master/0238-product-of-array-except-self) |
 | [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
+| [3639-zero-array-transformation-i](https://github.com/beilawellner/python-challenges/tree/master/3639-zero-array-transformation-i) |
 ## Stack
 |  |
 | ------- |
