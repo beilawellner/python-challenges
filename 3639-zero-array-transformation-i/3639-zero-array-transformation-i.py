@@ -5,8 +5,10 @@ class Solution:
         for l, r in queries:
             dec_count[l] += 1
             dec_count[r + 1] -= 1
-        for i in range(1, n):
-            dec_count[i] += dec_count[i - 1]
+
+        cur = 0
         for i in range(n):
-            nums[i] = nums[i] - dec_count[i]
-        return all(n <= 0 for n in nums)
+            cur += dec_count[i]
+            if nums[i] > cur:
+                return False
+        return True
