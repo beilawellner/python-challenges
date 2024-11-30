@@ -16,7 +16,7 @@ class Solution:
         for i in range(1, len(nums)):
             if nums[i] <= nums[i - 1]:
                 start = i
-            elif i - start + 1 == k:
+            if i - start + 1 == k:
                 if start - k in subsets_start:
                     return True
                 subsets_start.add(start)
