@@ -16,7 +16,7 @@ class Solution:
 
         for r in range(rows):
             for c in range(cols):
-                if (board[r][c] == 'O') and (r in [0, rows - 1] or c in [0, cols - 1]):
+                if (board[r][c] == 'O') and (r == 0 or c == 0 or r == rows - 1 or c == cols - 1):
                     dfs(r, c)
 
         for r in range(rows):
