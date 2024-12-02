@@ -52,6 +52,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/beilawellner/python-challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
+| [0807-custom-sort-string](https://github.com/beilawellner/python-challenges/tree/master/0807-custom-sort-string) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/beilawellner/python-challenges/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -87,6 +88,7 @@
 | [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
 | [0408-valid-word-abbreviation](https://github.com/beilawellner/python-challenges/tree/master/0408-valid-word-abbreviation) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
+| [0807-custom-sort-string](https://github.com/beilawellner/python-challenges/tree/master/0807-custom-sort-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/beilawellner/python-challenges/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -137,6 +139,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/beilawellner/python-challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/beilawellner/python-challenges/tree/master/0217-contains-duplicate) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0807-custom-sort-string](https://github.com/beilawellner/python-challenges/tree/master/0807-custom-sort-string) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/beilawellner/python-challenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
