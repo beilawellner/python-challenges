@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/beilawellner/python-challenges/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/beilawellner/python-challenges/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/beilawellner/python-challenges/tree/master/0322-coin-change) |
+| [0560-subarray-sum-equals-k](https://github.com/beilawellner/python-challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [0787-sliding-puzzle](https://github.com/beilawellner/python-challenges/tree/master/0787-sliding-puzzle) |
 | [0907-koko-eating-bananas](https://github.com/beilawellner/python-challenges/tree/master/0907-koko-eating-bananas) |
@@ -47,6 +48,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/beilawellner/python-challenges/tree/master/0217-contains-duplicate) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/beilawellner/python-challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/beilawellner/python-challenges/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/beilawellner/python-challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/beilawellner/python-challenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
