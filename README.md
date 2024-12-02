@@ -158,6 +158,7 @@
 | [0071-simplify-path](https://github.com/beilawellner/python-challenges/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/beilawellner/python-challenges/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/beilawellner/python-challenges/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/beilawellner/python-challenges/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Backtracking
@@ -189,6 +190,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/beilawellner/python-challenges/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/beilawellner/python-challenges/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/beilawellner/python-challenges/tree/master/0146-lru-cache) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/beilawellner/python-challenges/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/beilawellner/python-challenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
 |  |
@@ -203,6 +205,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/beilawellner/python-challenges/tree/master/0339-nested-list-weight-sum) |
 | [0547-number-of-provinces](https://github.com/beilawellner/python-challenges/tree/master/0547-number-of-provinces) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/beilawellner/python-challenges/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/beilawellner/python-challenges/tree/master/0975-range-sum-of-bst) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/beilawellner/python-challenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -255,6 +258,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/beilawellner/python-challenges/tree/master/0146-lru-cache) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/beilawellner/python-challenges/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +282,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/beilawellner/python-challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/beilawellner/python-challenges/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/beilawellner/python-challenges/tree/master/0975-range-sum-of-bst) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/beilawellner/python-challenges/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
@@ -290,6 +295,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/beilawellner/python-challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/beilawellner/python-challenges/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/beilawellner/python-challenges/tree/master/0975-range-sum-of-bst) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/beilawellner/python-challenges/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Dynamic Programming
@@ -310,6 +316,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/beilawellner/python-challenges/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/beilawellner/python-challenges/tree/master/0099-recover-binary-search-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/beilawellner/python-challenges/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/beilawellner/python-challenges/tree/master/0975-range-sum-of-bst) |
 ## Randomized
 |  |
