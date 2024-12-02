@@ -25,6 +25,7 @@
 | [1028-interval-list-intersections](https://github.com/beilawellner/python-challenges/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/beilawellner/python-challenges/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/beilawellner/python-challenges/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1755-defuse-the-bomb](https://github.com/beilawellner/python-challenges/tree/master/1755-defuse-the-bomb) |
@@ -176,6 +177,7 @@
 | [0130-surrounded-regions](https://github.com/beilawellner/python-challenges/tree/master/0130-surrounded-regions) |
 | [0787-sliding-puzzle](https://github.com/beilawellner/python-challenges/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/beilawellner/python-challenges/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1972-rotating-the-box](https://github.com/beilawellner/python-challenges/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/beilawellner/python-challenges/tree/master/2089-maximum-matrix-sum) |
@@ -226,6 +228,7 @@
 | [0787-sliding-puzzle](https://github.com/beilawellner/python-challenges/tree/master/0787-sliding-puzzle) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/beilawellner/python-challenges/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/beilawellner/python-challenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Graph
