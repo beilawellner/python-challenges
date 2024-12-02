@@ -89,6 +89,7 @@
 | [0408-valid-word-abbreviation](https://github.com/beilawellner/python-challenges/tree/master/0408-valid-word-abbreviation) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [0807-custom-sort-string](https://github.com/beilawellner/python-challenges/tree/master/0807-custom-sort-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/beilawellner/python-challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/beilawellner/python-challenges/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -159,6 +160,7 @@
 | [0227-basic-calculator-ii](https://github.com/beilawellner/python-challenges/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/beilawellner/python-challenges/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/beilawellner/python-challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/beilawellner/python-challenges/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Backtracking
@@ -181,6 +183,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/beilawellner/python-challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2011-maximum-value-after-insertion](https://github.com/beilawellner/python-challenges/tree/master/2011-maximum-value-after-insertion) |
 | [2089-maximum-matrix-sum](https://github.com/beilawellner/python-challenges/tree/master/2089-maximum-matrix-sum) |
 ## Linked List
