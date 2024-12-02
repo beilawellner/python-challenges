@@ -36,6 +36,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/beilawellner/python-challenges/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/beilawellner/python-challenges/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/beilawellner/python-challenges/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/beilawellner/python-challenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/beilawellner/python-challenges/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/beilawellner/python-challenges/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -119,6 +120,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/beilawellner/python-challenges/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/beilawellner/python-challenges/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/beilawellner/python-challenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/beilawellner/python-challenges/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
@@ -128,12 +130,14 @@
 | [0217-contains-duplicate](https://github.com/beilawellner/python-challenges/tree/master/0217-contains-duplicate) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/beilawellner/python-challenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/beilawellner/python-challenges/tree/master/0238-product-of-array-except-self) |
 | [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/beilawellner/python-challenges/tree/master/3101-maximum-coins-heroes-can-collect) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/beilawellner/python-challenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/beilawellner/python-challenges/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/beilawellner/python-challenges/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
@@ -226,6 +230,7 @@
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/beilawellner/python-challenges/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/beilawellner/python-challenges/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/beilawellner/python-challenges/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/beilawellner/python-challenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Trie
 |  |
 | ------- |
