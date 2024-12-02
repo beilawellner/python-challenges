@@ -185,6 +185,7 @@
 | [0099-recover-binary-search-tree](https://github.com/beilawellner/python-challenges/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/beilawellner/python-challenges/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/beilawellner/python-challenges/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/beilawellner/python-challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/beilawellner/python-challenges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -199,6 +200,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/beilawellner/python-challenges/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/beilawellner/python-challenges/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/beilawellner/python-challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/beilawellner/python-challenges/tree/master/0322-coin-change) |
 | [0339-nested-list-weight-sum](https://github.com/beilawellner/python-challenges/tree/master/0339-nested-list-weight-sum) |
@@ -261,6 +263,7 @@
 | [0099-recover-binary-search-tree](https://github.com/beilawellner/python-challenges/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/beilawellner/python-challenges/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/beilawellner/python-challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/beilawellner/python-challenges/tree/master/0975-range-sum-of-bst) |
@@ -272,6 +275,7 @@
 | [0099-recover-binary-search-tree](https://github.com/beilawellner/python-challenges/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/beilawellner/python-challenges/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/beilawellner/python-challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/beilawellner/python-challenges/tree/master/0975-range-sum-of-bst) |
