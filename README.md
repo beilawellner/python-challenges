@@ -25,6 +25,7 @@
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/beilawellner/python-challenges/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1755-defuse-the-bomb](https://github.com/beilawellner/python-challenges/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/beilawellner/python-challenges/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -52,6 +53,7 @@
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/beilawellner/python-challenges/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/beilawellner/python-challenges/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/beilawellner/python-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/beilawellner/python-challenges/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/beilawellner/python-challenges/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
@@ -63,6 +65,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/beilawellner/python-challenges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/beilawellner/python-challenges/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Queue
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beilawellner/python-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0408-valid-word-abbreviation](https://github.com/beilawellner/python-challenges/tree/master/0408-valid-word-abbreviation) |
 | [1028-interval-list-intersections](https://github.com/beilawellner/python-challenges/tree/master/1028-interval-list-intersections) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/beilawellner/python-challenges/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/beilawellner/python-challenges/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1972-rotating-the-box](https://github.com/beilawellner/python-challenges/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/beilawellner/python-challenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
