@@ -9,6 +9,7 @@
 | [0047-permutations-ii](https://github.com/beilawellner/python-challenges/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/beilawellner/python-challenges/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/beilawellner/python-challenges/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/beilawellner/python-challenges/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/beilawellner/python-challenges/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/beilawellner/python-challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/beilawellner/python-challenges/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/beilawellner/python-challenges/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/beilawellner/python-challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/beilawellner/python-challenges/tree/master/0217-contains-duplicate) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/beilawellner/python-challenges/tree/master/0314-binary-tree-vertical-order-traversal) |
