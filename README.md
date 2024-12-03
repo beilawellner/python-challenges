@@ -20,6 +20,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/beilawellner/python-challenges/tree/master/0346-moving-average-from-data-stream) |
 | [0560-subarray-sum-equals-k](https://github.com/beilawellner/python-challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
+| [0777-toeplitz-matrix](https://github.com/beilawellner/python-challenges/tree/master/0777-toeplitz-matrix) |
 | [0787-sliding-puzzle](https://github.com/beilawellner/python-challenges/tree/master/0787-sliding-puzzle) |
 | [0907-koko-eating-bananas](https://github.com/beilawellner/python-challenges/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/beilawellner/python-challenges/tree/master/0130-surrounded-regions) |
+| [0777-toeplitz-matrix](https://github.com/beilawellner/python-challenges/tree/master/0777-toeplitz-matrix) |
 | [0787-sliding-puzzle](https://github.com/beilawellner/python-challenges/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/beilawellner/python-challenges/tree/master/1171-shortest-path-in-binary-matrix) |
