@@ -30,6 +30,7 @@
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/beilawellner/python-challenges/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1755-defuse-the-bomb](https://github.com/beilawellner/python-challenges/tree/master/1755-defuse-the-bomb) |
+| [1909-buildings-with-an-ocean-view](https://github.com/beilawellner/python-challenges/tree/master/1909-buildings-with-an-ocean-view) |
 | [1972-rotating-the-box](https://github.com/beilawellner/python-challenges/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/beilawellner/python-challenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/beilawellner/python-challenges/tree/master/2089-maximum-matrix-sum) |
@@ -168,6 +169,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/beilawellner/python-challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/beilawellner/python-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/beilawellner/python-challenges/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1909-buildings-with-an-ocean-view](https://github.com/beilawellner/python-challenges/tree/master/1909-buildings-with-an-ocean-view) |
 ## Backtracking
 |  |
 | ------- |
@@ -335,4 +337,8 @@
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1909-buildings-with-an-ocean-view](https://github.com/beilawellner/python-challenges/tree/master/1909-buildings-with-an-ocean-view) |
 <!---LeetCode Topics End-->
