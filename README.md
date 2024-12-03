@@ -93,6 +93,7 @@
 | [0227-basic-calculator-ii](https://github.com/beilawellner/python-challenges/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/beilawellner/python-challenges/tree/master/0394-decode-string) |
 | [0408-valid-word-abbreviation](https://github.com/beilawellner/python-challenges/tree/master/0408-valid-word-abbreviation) |
+| [0415-add-strings](https://github.com/beilawellner/python-challenges/tree/master/0415-add-strings) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [0807-custom-sort-string](https://github.com/beilawellner/python-challenges/tree/master/0807-custom-sort-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/beilawellner/python-challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -113,6 +114,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/beilawellner/python-challenges/tree/master/0415-add-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/beilawellner/python-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
@@ -325,6 +327,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/beilawellner/python-challenges/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/beilawellner/python-challenges/tree/master/0227-basic-calculator-ii) |
+| [0415-add-strings](https://github.com/beilawellner/python-challenges/tree/master/0415-add-strings) |
 | [0912-random-pick-with-weight](https://github.com/beilawellner/python-challenges/tree/master/0912-random-pick-with-weight) |
 ## Binary Search Tree
 |  |
