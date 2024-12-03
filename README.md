@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/beilawellner/python-challenges/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/beilawellner/python-challenges/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/beilawellner/python-challenges/tree/master/0322-coin-change) |
+| [0346-moving-average-from-data-stream](https://github.com/beilawellner/python-challenges/tree/master/0346-moving-average-from-data-stream) |
 | [0560-subarray-sum-equals-k](https://github.com/beilawellner/python-challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/beilawellner/python-challenges/tree/master/0648-replace-words) |
 | [0787-sliding-puzzle](https://github.com/beilawellner/python-challenges/tree/master/0787-sliding-puzzle) |
@@ -67,15 +68,18 @@
 | [0146-lru-cache](https://github.com/beilawellner/python-challenges/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/beilawellner/python-challenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/beilawellner/python-challenges/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0346-moving-average-from-data-stream](https://github.com/beilawellner/python-challenges/tree/master/0346-moving-average-from-data-stream) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/beilawellner/python-challenges/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/beilawellner/python-challenges/tree/master/0346-moving-average-from-data-stream) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/beilawellner/python-challenges/tree/master/0346-moving-average-from-data-stream) |
 | [1366-first-unique-number](https://github.com/beilawellner/python-challenges/tree/master/1366-first-unique-number) |
 ## String
 |  |
