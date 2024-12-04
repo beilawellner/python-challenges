@@ -241,6 +241,7 @@
 | [0787-sliding-puzzle](https://github.com/beilawellner/python-challenges/tree/master/0787-sliding-puzzle) |
 | [0871-keys-and-rooms](https://github.com/beilawellner/python-challenges/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/beilawellner/python-challenges/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/beilawellner/python-challenges/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/beilawellner/python-challenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -306,6 +307,7 @@
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/beilawellner/python-challenges/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/beilawellner/python-challenges/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/beilawellner/python-challenges/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
 |  |
@@ -321,6 +323,7 @@
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/beilawellner/python-challenges/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/beilawellner/python-challenges/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/beilawellner/python-challenges/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/beilawellner/python-challenges/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Dynamic Programming
 |  |
